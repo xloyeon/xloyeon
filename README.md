@@ -1,8 +1,11 @@
-### SeungYeon Ahn 
+## **SeungYeon Ahn** 
 -----
 
 
-**Back-End/Data Engineering🌱**
+**Back-End/Data Engineering**
+
+- 🌱I'm cuttently learning R, Java programming
+
 
 
 
