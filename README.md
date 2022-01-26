@@ -4,7 +4,17 @@
 
 **Back-End/Data Engineering**
 
-**🌱Learning**
+
+
+
+**🔭Major**
+
+- Data technology
+
+
+**🌱Currently Learning**
+- R
+- Spring
 
 
 
