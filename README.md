@@ -4,7 +4,8 @@
 
 **Back-End/Data Engineering**
 
-- 🌱I'm cuttently learning R, Java programming
+**🌱Learning**
+
 
 
 
