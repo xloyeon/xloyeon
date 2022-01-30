@@ -33,7 +33,7 @@
 
 
 <img src="https://img.shields.io/badge/syeon25@mju.ac.kr-F46D01?style=flat-square&logo=Microsoft Outlook&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Tistory-FF61F6?style=flat-square&logo=FF5722&logoColor=white&link = https://sy-zoze.tistory.com"/></a>
+<a href="https://sy-zoze.tistory.com"><img src="https://img.shields.io/badge/Tistory-FF61F6?style=flat-square&logo=FF5722&logoColor=white&link =https://sy-zoze.tistory.com"/></a>
 
 
 
