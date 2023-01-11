@@ -1,30 +1,35 @@
-## **SeungYeon Ahn** [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxloyeon&count_bg=%2380B5E3&title_bg=%23999999&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/xloyeon)
-
------
+## **Hi, I'm SeungYeon Ahn:wave:**  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxloyeon&count_bg=%2380B5E3&title_bg=%23999999&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/xloyeon)
 
 
-**Back-End/Data Engineering**
+<br>
 
-![SeungYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=xloyeon&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xloyeon&layout=compact)](https://github.com/xloyeon/github-readme-stats)
+**Back-End Developer, Data Engineer**
+
+익숙한 것에서 멈추지 않고 끊임없이 성장해나가는 개발자를 꿈꿉니다
+
 
 
 **🔭Major**
 
-- Data technology
+- 명지대학교 융합소프트웨어학부 데이터테크놀로지 전공 
 
 
-**⚡Skills**
+**⚡Stacks**
 
 
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-green?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-FFD000?style=flat-square&logo=R&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/AMAZONAWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=ApacheSpark&logoColor=white" />
 
 
-**🌱Currently Learning**
-- Spring
-- Spark
+**🌱Currently Learning/Interested**
+- Kotlin
+- Docker
 - Kafka
 
 
