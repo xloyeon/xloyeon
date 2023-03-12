@@ -28,9 +28,8 @@
 
 
 **🌱Currently Learning/Interested**
-- Kotlin
+- Spring
 - Docker
-- Kafka
 
 
 
