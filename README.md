@@ -3,7 +3,7 @@
 
 <br>
 
-**Back-End Developer, Data Engineer**
+**Back-End Developer
 
 익숙한 것에서 멈추지 않고 끊임없이 성장해나가는 개발자를 꿈꿉니다
 
@@ -28,7 +28,7 @@
 
 
 **🌱Currently Learning/Interested**
-- Spring
+- Spring Boot
 - Docker
 
 
