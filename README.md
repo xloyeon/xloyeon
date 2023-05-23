@@ -3,16 +3,17 @@
 
 <br>
 
-**Back-End Developer
+**😄Back-End Developer**
 
 익숙한 것에서 멈추지 않고 끊임없이 성장해나가는 개발자를 꿈꿉니다
 
-
+<br>
 
 **🔭Major**
 
 - 명지대학교 융합소프트웨어학부 데이터테크놀로지 전공 
 
+<br>
 
 **⚡Stacks**
 
@@ -26,12 +27,13 @@
 <img src="https://img.shields.io/badge/AMAZONAWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=ApacheSpark&logoColor=white" />
 
+<br>
 
 **🌱Currently Learning/Interested**
 - Spring Boot
 - Docker
 
-
+<br>
 
 **💬Contact with**
 
