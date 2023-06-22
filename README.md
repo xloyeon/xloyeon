@@ -30,7 +30,6 @@
 <br>
 
 **🌱Currently Learning/Interested**
-- Spring Boot
 - Docker
 
 <br>
